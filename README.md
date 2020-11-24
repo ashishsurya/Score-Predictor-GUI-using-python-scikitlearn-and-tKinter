@@ -3,7 +3,7 @@
 * In this project my aim was to predict the first innings total of a cricket match for a given instance.
 * This also contains a Graphical User Interface(GUI) done with the help of tKinter in python
 * In the GUI the model used was simply a Linear Regression(since we are predicting a continuous value)
-* In the Notebook three Regression techniques has been use
+* In the Notebook three Regression techniques has been used
   * Linear Regression
   * Decision Tree Regressor
   * Random Forest Regressor
